@@ -12,7 +12,7 @@ smtp = "smtp.qq.com"
 sender = "2282310940@qq.com"
 receiver = "1328497946@qq.com"
 
-pwd = 'vbddzghqiqhxdiej'
+pwd = '?'
 title = "树梅派温度传感器传送"
 while True:
     try:
